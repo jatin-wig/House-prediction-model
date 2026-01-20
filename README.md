@@ -4,6 +4,11 @@ A robust real estate valuation system leveraging machine learning to estimate pr
 
 ---
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/SEAnfUnSGbU/hqdefault.jpg)](https://www.youtube.com/watch?v=SEAnfUnSGbU)
+
+---
 ## Problem Statement
 
 Accurate home valuation is critical for buyers, sellers, and lenders in dynamic real estate markets. Traditional appraisal methods can be subjective and time-consuming. This model automates price estimation using:
@@ -44,7 +49,33 @@ GradientBoostingRegressor(
 ```
 ---
 
+# Setup Instructions
+
+## 1) Clone the Repository
+```bash
+
+git clone https://github.com/jatin-wig/spam-detector-large-scale.git
+```
+
+## 2) Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## 3) Run the App
+```bash
+streamlit run app.py
+ ```
+or 
+```bash
+python -m streamlit run app.py 
+```
+--- 
+
 ## Demo
 
 You can access the live demo of the application by visiting the following link:  
 [View Demo](https://house-prediction-model-jatin-wig.streamlit.app/)
+
+# Built by Jatin Wig
+### GitHub: https://github.com/jatin-wig
