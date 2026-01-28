@@ -54,7 +54,7 @@ GradientBoostingRegressor(
 ## 1) Clone the Repository
 ```bash
 
-git clone https://github.com/jatin-wig/spam-detector-large-scale.git
+git clone https://github.com/jatin-wig/House-prediction-model.git
 ```
 
 ## 2) Install Dependencies
